@@ -2,7 +2,7 @@ package buoi7;
 
 import java.util.Scanner;
 
-public class An107445 {
+public class Long107907 {
     public static void hienThiGiaTri(int n) {
         System.out.print("Danh sách các phần tử là: ");
         int i = 1;
