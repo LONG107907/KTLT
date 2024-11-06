@@ -2,13 +2,13 @@ package buoi6;
 
 import java.util.Scanner;
 
-public class An107445 {
+public class Long107907{
     public static void thongTin1_1()
     {
-        String hoTen = "Huỳnh Trần Bình An";
-        String ngaySinh = "24/12/2002";
+        String hoTen = "Nguyễn Thành Long";
+        String ngaySinh = "04/03/2006";
         String diemTongKet = "5.5";
-        String tuoi = "22";
+        String tuoi = "18";
         System.out.println("-----THÔNG TIN SINH VIÊN-----");
         System.out.println("Họ và tên: " + hoTen);
         System.out.println("Ngày sinh: " + ngaySinh);
@@ -18,10 +18,10 @@ public class An107445 {
     }
 
     public static void thonhTin1_2() {
-        String hoTen = "Huỳnh Trần Bình An";
-        String ngaySinh = "24/12/2002";
+        String hoTen = "Nguyễn Thành Long";
+        String ngaySinh = "04/03/2006";
         Float diemTongKet = 5.5f;
-        int tuoi = 22;
+        int tuoi = 18;
         System.out.println("-----THÔNG TIN SINH VIÊN-----");
         System.out.println("Họ và tên: " + hoTen);
         System.out.println("Ngày sinh: " + ngaySinh);
