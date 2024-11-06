@@ -1,6 +1,6 @@
 package buoi4;
 import java.util.Scanner;
-public class An107445 {
+public class Long107907 {
 public static void Cau1(int n) {
         System.out.printf("Danh sách các phần tử n = %d là :",n);
         for (int i = 1; i <= n; i++) {
