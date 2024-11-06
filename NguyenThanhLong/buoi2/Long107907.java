@@ -2,7 +2,7 @@ package buoi2;
 
 import java.util.Scanner;
 
-public class An107445 {
+public class Long107907 {
     public static void main(String[] args) {
     String lop = "IT24A";
     int num1 = 10; 
