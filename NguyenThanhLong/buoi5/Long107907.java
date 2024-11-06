@@ -1,6 +1,6 @@
 package buoi5;
 import java.util.Scanner;
-public class An107445 {
+public class Long107907 {
     public static int timGiaTriLonNhat(int a, int b) {
         return a > b ? a : b;
     }
